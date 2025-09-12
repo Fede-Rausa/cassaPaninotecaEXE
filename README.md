@@ -1,1 +1,0 @@
-Per creare il file .exe bisogna usare pyinstaller in locale. Altrimenti, se si installa python e le librerie utilizzate nel codice, è possibile attivare la cassa dal cmd prompt con il comando "python script_cassaCSV.py"
